@@ -1,5 +1,5 @@
 ---
-baseURL: maxmblack.github.io/fitness-blog/
+baseURL: https://simple-fitness-blog.netlify.app/
 languageCode: de-de
 title: Hugo Parsa Forestry Starter
 module:
