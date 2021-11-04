@@ -1,5 +1,5 @@
 ---
-baseURL: "/"
+baseURL: https://maxmblack.github.io/fitness-blog/
 languageCode: de-de
 title: Hugo Parsa Forestry Starter
 module:
